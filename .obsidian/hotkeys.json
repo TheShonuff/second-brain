@@ -1,0 +1,27 @@
+{
+  "quickadd:choice:12ac1eac-e8da-45db-83b3-f74da571d01e": [
+    {
+      "modifiers": [
+        "Alt"
+      ],
+      "key": "F"
+    }
+  ],
+  "templater-obsidian:replace-in-file-templater": [],
+  "quickadd:choice:4662f731-af5b-482d-a1fa-82f3ce5845ab": [
+    {
+      "modifiers": [
+        "Alt"
+      ],
+      "key": "R"
+    }
+  ],
+  "file-explorer:move-file": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "M"
+    }
+  ]
+}

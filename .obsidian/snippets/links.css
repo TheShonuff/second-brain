@@ -1,0 +1,55 @@
+.markdown-source-view.mod-cm6,
+.cm-s-obsidian,
+.cm-hmd-internal,
+.cm-underline,
+.internal-link {
+  text-decoration: none !important;
+}
+.cm-s-obsidian span.cm-link .cm-underline {
+  color: #1abc9c !important;
+}
+
+. .internal-link:hover {
+  color: #7dcfff;
+}
+
+.cm-hmd-internal,
+.cm-underline,
+.internal-link {
+  color: #9d7cd8 !important;
+  font-weight: 800;
+}
+.mcm-column-border {
+  border: #bd93f9;
+  border-style: solid;
+  border-width: 0.5px;
+  border-radius: 5px;
+}
+
+.mcm-column-parent-container {
+  color: #ffb86c;
+}
+.block-language-todoist {
+  border-color: #bd93f9;
+  border-style: solid;
+  border-width: 0.5px;
+  border-radius: 5px;
+}
+
+.todoist-refresh-button {
+  margin-right: 30px;
+}
+img[alt*="center"] {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+mjx-container {
+  color: #9ece6a;
+  font-size: 120%;
+  font-wight: 800;
+}
+img{
+    background: white;
+}

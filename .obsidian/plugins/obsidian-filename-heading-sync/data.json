@@ -1,0 +1,7 @@
+{
+  "userIllegalSymbols": [],
+  "ignoredFiles": {},
+  "ignoreRegex": "Lifprasir/|Templates",
+  "useFileOpenHook": true,
+  "useFileSaveHook": true
+}

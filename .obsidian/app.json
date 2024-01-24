@@ -1,0 +1,12 @@
+{
+  "promptDelete": false,
+  "spellcheck": false,
+  "showInlineTitle": false,
+  "mobilePullAction": "quickadd:runQuickAdd",
+  "newFileLocation": "folder",
+  "alwaysUpdateLinks": true,
+  "vimMode": false,
+  "propertiesInDocument": "visible",
+  "newFileFolderPath": "slip-box",
+  "showLineNumber": false
+}

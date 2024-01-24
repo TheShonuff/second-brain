@@ -1,0 +1,28 @@
+{
+  "settings": {
+    "migrated": true,
+    "iconPacksPath": ".obsidian/plugins/obsidian-icon-folder/icons",
+    "fontSize": 16,
+    "iconColor": "#bd93f9",
+    "recentlyUsedIcons": [
+      "IbPencil",
+      "RiBookOpenLine",
+      "RiFireFill",
+      "RiArchiveFill",
+      "RiFileSearchLine"
+    ],
+    "recentlyUsedIconsSize": 5,
+    "rules": [],
+    "extraMargin": {
+      "top": 0,
+      "right": 4,
+      "bottom": 0,
+      "left": 0
+    }
+  },
+  "Lifprasir": "FarCircleUp",
+  "slip-box": "RiInboxLine",
+  "02-Resources": "RiLifebuoyFill",
+  "02-Resources/Programming": "RiTerminalBoxFill",
+  "02-Resources/Programming/Terminal": "RiTerminalBoxLine"
+}

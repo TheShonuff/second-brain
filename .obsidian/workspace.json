@@ -1,0 +1,446 @@
+{
+  "main": {
+    "id": "2a58c70a667fdb58",
+    "type": "split",
+    "children": [
+      {
+        "id": "9dbd6e7bd9c7f39d",
+        "type": "split",
+        "children": [
+          {
+            "id": "fb008aa2c7eb5662",
+            "type": "split",
+            "dimension": 61.121764141898375,
+            "children": [
+              {
+                "id": "d115a26b7b7aa027",
+                "type": "tabs",
+                "dimension": 48.14814814814815,
+                "children": [
+                  {
+                    "id": "2b773a616dc412a0",
+                    "type": "leaf",
+                    "state": {
+                      "type": "markdown",
+                      "state": {
+                        "file": "01-Areas/personal-health/test note.md",
+                        "mode": "source",
+                        "source": false
+                      }
+                    }
+                  },
+                  {
+                    "id": "afe459f8b93e2184",
+                    "type": "leaf",
+                    "state": {
+                      "type": "markdown",
+                      "state": {
+                        "file": "Templates/Fleeting Note Template.md",
+                        "mode": "source",
+                        "source": false
+                      }
+                    }
+                  }
+                ]
+              },
+              {
+                "id": "49a2d0c66589f91c",
+                "type": "tabs",
+                "dimension": 51.85185185185186,
+                "children": [
+                  {
+                    "id": "95ec2544422e2e97",
+                    "type": "leaf",
+                    "state": {
+                      "type": "markdown",
+                      "state": {
+                        "file": "02-Resources/Programming/WebDev/WordPress/Block Themes.md",
+                        "mode": "source",
+                        "source": false
+                      }
+                    }
+                  }
+                ]
+              }
+            ],
+            "direction": "vertical"
+          },
+          {
+            "id": "6f4923c2b717f38e",
+            "type": "split",
+            "dimension": 38.878235858101625,
+            "children": [
+              {
+                "id": "fb8dc767eade2a2c",
+                "type": "tabs",
+                "dimension": 53.943314849044974,
+                "children": [
+                  {
+                    "id": "b794728f0db3c0d6",
+                    "type": "leaf",
+                    "pinned": true,
+                    "state": {
+                      "type": "markdown",
+                      "state": {
+                        "file": "02-Resources/Programming/Databases/SQL/SQL MOC.md",
+                        "mode": "source",
+                        "source": false
+                      },
+                      "pinned": true
+                    }
+                  },
+                  {
+                    "id": "0fa9528e90d6c8d3",
+                    "type": "leaf",
+                    "pinned": true,
+                    "state": {
+                      "type": "markdown",
+                      "state": {
+                        "file": "02-Resources/Programming/Python/Python MOC.md",
+                        "mode": "source",
+                        "source": false
+                      },
+                      "pinned": true
+                    }
+                  },
+                  {
+                    "id": "3a4cc90582d62c38",
+                    "type": "leaf",
+                    "pinned": true,
+                    "state": {
+                      "type": "markdown",
+                      "state": {
+                        "file": "02-Resources/Programming/PHP/PHP.md",
+                        "mode": "source",
+                        "source": false
+                      },
+                      "pinned": true
+                    }
+                  },
+                  {
+                    "id": "44ba69035ada7a5b",
+                    "type": "leaf",
+                    "pinned": true,
+                    "state": {
+                      "type": "markdown",
+                      "state": {
+                        "file": "02-Resources/Programming/WebDev/WordPress/WordPress.md",
+                        "mode": "source",
+                        "source": false
+                      },
+                      "pinned": true
+                    }
+                  },
+                  {
+                    "id": "ba281b69c95d130c",
+                    "type": "leaf",
+                    "pinned": true,
+                    "state": {
+                      "type": "markdown",
+                      "state": {
+                        "file": "02-Resources/CS-basics/Computer Science MoC.md",
+                        "mode": "source",
+                        "source": false
+                      },
+                      "pinned": true
+                    }
+                  },
+                  {
+                    "id": "58df5c53ab140ae6",
+                    "type": "leaf",
+                    "state": {
+                      "type": "markdown",
+                      "state": {
+                        "file": "01-Areas/Heim.md",
+                        "mode": "source",
+                        "source": false
+                      }
+                    }
+                  }
+                ],
+                "currentTab": 5
+              },
+              {
+                "id": "cf8698b44139325d",
+                "type": "tabs",
+                "dimension": 46.056685150955026,
+                "children": [
+                  {
+                    "id": "45ef674b9e247fee",
+                    "type": "leaf",
+                    "state": {
+                      "type": "markdown",
+                      "state": {
+                        "file": "01-Areas/neovim/GitHub CoPilot NVIM.md",
+                        "mode": "source",
+                        "source": false
+                      }
+                    }
+                  }
+                ]
+              }
+            ],
+            "direction": "vertical"
+          }
+        ],
+        "direction": "horizontal"
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "307933fc6f5b476c",
+    "type": "split",
+    "children": [
+      {
+        "id": "dc49c056a9ff121f",
+        "type": "tabs",
+        "dimension": 48.41802492809204,
+        "children": [
+          {
+            "id": "70c107dfb3bbf990",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "88dc05886fcaaa11",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          },
+          {
+            "id": "2ab00fcf6125209d",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "heim",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "c752f1c46202f3a1",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
+          },
+          {
+            "id": "df906b8c5cb1f12c",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": "2136e5c62bc8a55c",
+        "type": "tabs",
+        "dimension": 20.56567593480345,
+        "children": [
+          {
+            "id": "db2727fb43082a19",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "01-Areas/personal-health/test note.md"
+              }
+            }
+          },
+          {
+            "id": "a717a197237e729b",
+            "type": "leaf",
+            "state": {
+              "type": "toggl-report",
+              "state": {}
+            }
+          }
+        ]
+      },
+      {
+        "id": "38431b100e0afb8c",
+        "type": "tabs",
+        "dimension": 17.209971236816873,
+        "children": [
+          {
+            "id": "b36479e2595ad184",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "01-Areas/personal-health/test note.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": false
+              }
+            }
+          },
+          {
+            "id": "42cbb63a2fc732e1",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "01-Areas/personal-health/test note.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      },
+      {
+        "id": "935ec9cbe0a628da",
+        "type": "tabs",
+        "dimension": 13.806327900287632,
+        "children": [
+          {
+            "id": "b8a5112c28305fae",
+            "type": "leaf",
+            "state": {
+              "type": "file-properties",
+              "state": {
+                "file": "01-Areas/personal-health/test note.md"
+              }
+            }
+          },
+          {
+            "id": "e56326767ac96ed5",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 505.5
+  },
+  "right": {
+    "id": "a67fcdbeec527209",
+    "type": "split",
+    "children": [
+      {
+        "id": "be135ca21239f1a0",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b87373a902815d71",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
+          },
+          {
+            "id": "8d6cc5853b497961",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "horizontal",
+    "width": 425.5
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "zk-prefixer:Create new unique note": false,
+      "workspaces:Manage workspace layouts": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "command-palette:Open command palette": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "homepage:Open homepage": false,
+      "templater-obsidian:Templater": false,
+      "periodic-notes:Open today": false,
+      "cmdr:Calendar: Open Weekly Note": false
+    }
+  },
+  "active": "2b773a616dc412a0",
+  "lastOpenFiles": [
+    "01-Areas/personal-growth/personal growht note.md",
+    "02-Resources/Programming/WebDev/WordPress/Block Themes.md",
+    "01-Areas/personal-health/test note.md",
+    "02-Resources/Programming/WebDev/WordPress/wordproof.md",
+    "Templates/Fleeting Note Template.md",
+    "Templates/Weekly Note Template.md",
+    "Templates/Reading Note Template (vim).md",
+    "01-Areas/neovim/GitHub CoPilot NVIM.md",
+    "00-Projects/BF-Wellness/BF-Wellness Sync Notes.md",
+    "01-Areas/Heim.md",
+    "*  Slip-Box */Heim.md",
+    "Untitled.canvas",
+    "slip-box/1706076185-new-note.md~",
+    "slip-box/1706076185-new-note.md",
+    "slip-box/1706076099-test-note.md",
+    "Templates/Daily Note Template.md",
+    "01-Areas/coding-practice/Write Number in Expanded Form.md",
+    "Lifprasir/weekly",
+    "Lifprasir/Daily/2023/02/02-25-2023-Saturday.md",
+    "Lifprasir/Daily/2023/01/01-21-2023-Saturday.md",
+    "Lifprasir/Daily/2023/01/01-19-2023-Thursday.md",
+    "Lifprasir/Daily/2023/01/01-12-2023-Thursday.md",
+    "Lifprasir/Daily/2023/01/01-10-2023-Tuesday.md",
+    "Lifprasir/Daily/2023/01/01-08-2023-Sunday.md",
+    "Lifprasir/Daily/2023/01/01-05-2023-Thursday.md",
+    "Lifprasir/Daily/2023/01/01-04-2023-Wednesday.md",
+    "Lifprasir/Daily/2023/01/01-03-2023-Tuesday.md",
+    "Lifprasir/Daily/2023/01/01-02-2023-Monday.md",
+    "Lifprasir/Daily/2023/01/01-01-2023-Sunday.md",
+    "Lifprasir/Daily/2023/02",
+    "Lifprasir/Daily/2023/01",
+    "Lifprasir/Daily/2022/12",
+    "Lifprasir/Daily/2022/11",
+    "Lifprasir/Daily/2022/10",
+    "Lifprasir/Daily/2023",
+    "Lifprasir/Daily/2022",
+    "Lifprasir/Daily",
+    "Images/Pasted image 20231018214428 1 1.png",
+    "00-Projects/BF-Wellness/Website Launching Soon.png",
+    "00-Projects/BF-Wellness/BF-Wellness White board.jpeg.jpeg",
+    "00-Projects/BF-Wellness/Brand Board.png",
+    "Images/Pasted image 20231104213204 1.png",
+    "Images/Pasted image 20231108203420 1.png",
+    "Images/Pasted image 20231022141119 1.png",
+    "Images/Pasted image 20231105213747 1.png",
+    "Images/Pasted image 20231105213917 1.png",
+    "Images/Pasted image 20231027214048 1.png"
+  ]
+}

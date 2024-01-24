@@ -1,0 +1,34 @@
+{
+  "items": [
+    {
+      "type": "file",
+      "path": "02-Resources/Lua MOC.md",
+      "ctime": 1683057196442
+    },
+    {
+      "type": "file",
+      "path": "Resource/Programming/VIM/NeoVim.md",
+      "ctime": 1683057196442
+    },
+    {
+      "type": "file",
+      "path": "02-Resources/Programming/Langauges/Shell Scripting MOC.md",
+      "ctime": 1683057196442
+    },
+    {
+      "type": "file",
+      "path": "01-Areas/note-taking/Note Taking.md",
+      "ctime": 1683057196442
+    },
+    {
+      "type": "file",
+      "path": "02-Resources/CSS MOC.md",
+      "ctime": 1683057196442
+    },
+    {
+      "type": "file",
+      "path": "02-Resources/Programming/Rust/Rust MOC.md",
+      "ctime": 1683057196442
+    }
+  ]
+}

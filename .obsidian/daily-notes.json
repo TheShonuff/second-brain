@@ -1,0 +1,6 @@
+{
+  "template": "Templates/Daily Note Template",
+  "folder": "Lifprasir/Daily",
+  "format": "YYYY/MM/MM-DD-YYYY-dddd",
+  "autorun": false
+}
