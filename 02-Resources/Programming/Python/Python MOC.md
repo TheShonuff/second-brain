@@ -122,7 +122,7 @@ use `ipython` interpreter
 	- [[Python Financial Basics]]
 	- [[Importing Finance Data]]
 	- **Mean-Variance**
-		- [[Markowitz Mean-Variance Optimization (MVO)]]
+		- [[slip-box/Markowitz Mean-Variance Optimization (MVO)]]
 - [[NumPy]]
 - [[Yaml]]
 - [[Python Dates|Dates]]

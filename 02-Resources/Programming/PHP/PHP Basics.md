@@ -1,9 +1,11 @@
 ---
-title: PHP Basics
-Created: 2023-12-29 21:57
+id: PHP Basics
+aliases:
+  - PHP Basics
 tags:
   - php
-aliases:
+Created: 2023-12-29 21:57
+title: PHP Basics
 ---
 # PHP Basics
 - Embedding php in html uses `<?php` and `?>`
@@ -17,7 +19,8 @@ aliases:
 ## Strings
 - Strings are uses with double quotes
 - String can be concatenated using the `.` operator
-
+- To check string length use `strlen($string)`
+    - This will convert the value to a int to be compared in condition testing.
 ```Php
 echo "one" . "two";
 ```

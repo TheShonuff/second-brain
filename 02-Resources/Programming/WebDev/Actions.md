@@ -5,6 +5,7 @@ tags:
   - webdev
   - wordpress
 aliases:
+  - wordpress actions
 ---
 # Actions
 - One of two types of hooks.

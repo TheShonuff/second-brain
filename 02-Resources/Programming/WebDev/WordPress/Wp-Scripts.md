@@ -4,6 +4,7 @@ Created: 2024-01-14 14:17
 tags:
   - wordpress
 aliases:
+  - wordpress scripts
 ---
 # Wp-Scripts
 - [W-Scripts Documentation](https://developer.wordpress.org/block-editor/getting-started/devenv/get-started-with-wp-scripts/)

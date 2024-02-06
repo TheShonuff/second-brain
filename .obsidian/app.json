@@ -1,6 +1,6 @@
 {
   "promptDelete": false,
-  "spellcheck": false,
+  "spellcheck": true,
   "showInlineTitle": false,
   "mobilePullAction": "quickadd:runQuickAdd",
   "newFileLocation": "folder",

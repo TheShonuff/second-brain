@@ -3,6 +3,7 @@
   "obsidian-tasks-plugin",
   "dataview",
   "obsidian-icon-folder",
+  "obsidian-rollover-daily-todos",
   "periodic-notes",
   "calendar",
   "quickadd",
@@ -14,10 +15,7 @@
   "obsidian-toggl-integration",
   "cm-editor-syntax-highlight-obsidian",
   "homepage",
-  "todoist-sync-plugin",
   "multi-column-markdown",
   "templater-obsidian",
-  "obsidian-outliner",
-  "cmdr",
-  "obsidian-git"
+  "obsidian-outliner"
 ]

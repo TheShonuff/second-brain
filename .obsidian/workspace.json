@@ -15,7 +15,7 @@
               {
                 "id": "d115a26b7b7aa027",
                 "type": "tabs",
-                "dimension": 48.14814814814815,
+                "dimension": 34.9645390070922,
                 "children": [
                   {
                     "id": "2b773a616dc412a0",
@@ -23,19 +23,7 @@
                     "state": {
                       "type": "markdown",
                       "state": {
-                        "file": "01-Areas/personal-health/test note.md",
-                        "mode": "source",
-                        "source": false
-                      }
-                    }
-                  },
-                  {
-                    "id": "afe459f8b93e2184",
-                    "type": "leaf",
-                    "state": {
-                      "type": "markdown",
-                      "state": {
-                        "file": "Templates/Fleeting Note Template.md",
+                        "file": "01-Areas/Leadership/Starting With No Why Most People Shouldn’t Be Managers by Sivan Hermon Highlights.md",
                         "mode": "source",
                         "source": false
                       }
@@ -46,7 +34,7 @@
               {
                 "id": "49a2d0c66589f91c",
                 "type": "tabs",
-                "dimension": 51.85185185185186,
+                "dimension": 34.8936170212766,
                 "children": [
                   {
                     "id": "95ec2544422e2e97",
@@ -54,7 +42,26 @@
                     "state": {
                       "type": "markdown",
                       "state": {
-                        "file": "02-Resources/Programming/WebDev/WordPress/Block Themes.md",
+                        "file": "01-Areas/Leadership/The Lasting Harm of Leadership Bullshit by Andy Walker Highlights.md",
+                        "mode": "source",
+                        "source": false
+                      }
+                    }
+                  }
+                ]
+              },
+              {
+                "id": "3525966c366da1d5",
+                "type": "tabs",
+                "dimension": 30.141843971631204,
+                "children": [
+                  {
+                    "id": "26a01bc286fd6e71",
+                    "type": "leaf",
+                    "state": {
+                      "type": "markdown",
+                      "state": {
+                        "file": "slip-box/Promotion Notes.md",
                         "mode": "source",
                         "source": false
                       }
@@ -118,20 +125,6 @@
                     }
                   },
                   {
-                    "id": "44ba69035ada7a5b",
-                    "type": "leaf",
-                    "pinned": true,
-                    "state": {
-                      "type": "markdown",
-                      "state": {
-                        "file": "02-Resources/Programming/WebDev/WordPress/WordPress.md",
-                        "mode": "source",
-                        "source": false
-                      },
-                      "pinned": true
-                    }
-                  },
-                  {
                     "id": "ba281b69c95d130c",
                     "type": "leaf",
                     "pinned": true,
@@ -158,7 +151,7 @@
                     }
                   }
                 ],
-                "currentTab": 5
+                "currentTab": 4
               },
               {
                 "id": "cf8698b44139325d",
@@ -169,12 +162,8 @@
                     "id": "45ef674b9e247fee",
                     "type": "leaf",
                     "state": {
-                      "type": "markdown",
-                      "state": {
-                        "file": "01-Areas/neovim/GitHub CoPilot NVIM.md",
-                        "mode": "source",
-                        "source": false
-                      }
+                      "type": "empty",
+                      "state": {}
                     }
                   }
                 ]
@@ -221,7 +210,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "heim",
+                "query": "javascript",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -262,7 +251,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "01-Areas/personal-health/test note.md"
+                "file": "slip-box/Promotion Notes.md"
               }
             }
           },
@@ -287,7 +276,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "01-Areas/personal-health/test note.md",
+                "file": "slip-box/Promotion Notes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -304,7 +293,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "01-Areas/personal-health/test note.md",
+                "file": "slip-box/Promotion Notes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -324,7 +313,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "01-Areas/personal-health/test note.md"
+                "file": "slip-box/Promotion Notes.md"
               }
             }
           },
@@ -393,45 +382,45 @@
       "cmdr:Calendar: Open Weekly Note": false
     }
   },
-  "active": "2b773a616dc412a0",
+  "active": "26a01bc286fd6e71",
   "lastOpenFiles": [
-    "01-Areas/personal-growth/personal growht note.md",
-    "02-Resources/Programming/WebDev/WordPress/Block Themes.md",
-    "01-Areas/personal-health/test note.md",
-    "02-Resources/Programming/WebDev/WordPress/wordproof.md",
-    "Templates/Fleeting Note Template.md",
-    "Templates/Weekly Note Template.md",
-    "Templates/Reading Note Template (vim).md",
-    "01-Areas/neovim/GitHub CoPilot NVIM.md",
-    "00-Projects/BF-Wellness/BF-Wellness Sync Notes.md",
-    "01-Areas/Heim.md",
-    "*  Slip-Box */Heim.md",
-    "Untitled.canvas",
-    "slip-box/1706076185-new-note.md~",
-    "slip-box/1706076185-new-note.md",
+    "slip-box/1707104066-virtual-dom.md",
+    "slip-box/1707075625-jsx.md~",
+    "slip-box/1707075625-jsx.md",
+    "slip-box/1707074963-javascript-babel.md~",
+    "slip-box/1707074963-javascript-babel.md",
+    "slip-box/Promotion Notes.md~",
+    "01-Areas/Leadership/The Lasting Harm of Leadership Bullshit by Andy Walker Highlights.md",
+    "02-Resources/Programming/WebDev/Background Styles.md",
+    "slip-box/Promotion Notes.md",
+    "01-Areas/Leadership/Starting With No Why Most People Shouldn’t Be Managers by Sivan Hermon Highlights.md",
+    "01-Areas/Leadership/Start With The Why - Simon Sinek.md",
+    "01-Areas/Leadership/Maybe It′s Me 8 Signs a Boss Has Leadership Issues by Zain Jaffer Highlights.md",
+    "01-Areas/Leadership/Leadership.md",
+    "01-Areas/Leadership/The Poem That Shaped My Approach to Life and Leadership by Sivan Hermon Highlights.md",
+    "01-Areas/Leadership/The Manager Trinity The 3 Tenets of Successful Managers by Sivan Hermon Highlights.md",
+    "Readwise/Readwise Syncs.md",
+    "Readwise/Web/Passages Saved From iOS by  Highlights.md",
+    "slip-box/note.md",
+    "slip-box/1705964914-test-note.md",
     "slip-box/1706076099-test-note.md",
-    "Templates/Daily Note Template.md",
-    "01-Areas/coding-practice/Write Number in Expanded Form.md",
-    "Lifprasir/weekly",
-    "Lifprasir/Daily/2023/02/02-25-2023-Saturday.md",
-    "Lifprasir/Daily/2023/01/01-21-2023-Saturday.md",
-    "Lifprasir/Daily/2023/01/01-19-2023-Thursday.md",
-    "Lifprasir/Daily/2023/01/01-12-2023-Thursday.md",
-    "Lifprasir/Daily/2023/01/01-10-2023-Tuesday.md",
-    "Lifprasir/Daily/2023/01/01-08-2023-Sunday.md",
-    "Lifprasir/Daily/2023/01/01-05-2023-Thursday.md",
-    "Lifprasir/Daily/2023/01/01-04-2023-Wednesday.md",
-    "Lifprasir/Daily/2023/01/01-03-2023-Tuesday.md",
-    "Lifprasir/Daily/2023/01/01-02-2023-Monday.md",
-    "Lifprasir/Daily/2023/01/01-01-2023-Sunday.md",
-    "Lifprasir/Daily/2023/02",
-    "Lifprasir/Daily/2023/01",
-    "Lifprasir/Daily/2022/12",
-    "Lifprasir/Daily/2022/11",
-    "Lifprasir/Daily/2022/10",
-    "Lifprasir/Daily/2023",
-    "Lifprasir/Daily/2022",
-    "Lifprasir/Daily",
+    "slip-box/1706076185-new-note.md",
+    "slip-box/Regular Expressions.md",
+    "slip-box/Quotes.md",
+    "00-Projects/BF-Wellness/1706240139-shopify-app-creation.md",
+    "01-Areas/neovim/1706071730-confrom-formatting.md",
+    "02-Resources/Programming/JavaScript/1706418517-javascript-higher-order-functions.md",
+    "02-Resources/Programming/JavaScript/JavaScript MOC.md",
+    "00-Projects/Electronics Training (work)/Idea - Arduino Challenge.md",
+    "00-Projects/Electronics Training (work)",
+    "02-Resources/Programming/JavaScript/1706420111-javascript-iterators.md",
+    "slip-box/1706848761-javascript-modules.md~",
+    "slip-box/1706330365-javascript-conditional-statements.md~",
+    "slip-box/1706389823-javascript-arrays.md~",
+    "slip-box/1706506833-javascript-classes.md~",
+    "slip-box/1706503061-javascript-object-methods.md~",
+    "02-Resources/Programming/WordPress",
+    "Untitled.canvas",
     "Images/Pasted image 20231018214428 1 1.png",
     "00-Projects/BF-Wellness/Website Launching Soon.png",
     "00-Projects/BF-Wellness/BF-Wellness White board.jpeg.jpeg",

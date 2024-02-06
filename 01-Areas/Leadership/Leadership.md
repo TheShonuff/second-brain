@@ -16,7 +16,7 @@ tags:
 			- Who you have is:
 				- What you have created and tolerated.
 
-Success is the weighted average of everyone 
+**Success is the weighted average of everyone** 
 
 [[Start With The Why - Simon Sinek]]
 

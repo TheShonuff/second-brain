@@ -4,8 +4,8 @@
   "frequency": "60",
   "triggerOnLoad": true,
   "isSyncing": false,
-  "lastSyncFailed": true,
-  "lastSavedStatusID": 6658406,
+  "lastSyncFailed": false,
+  "lastSavedStatusID": 12663628,
   "currentSyncStatusID": 0,
   "refreshBooks": false,
   "booksToRefresh": [
@@ -66,8 +66,11 @@
     "21590875",
     "21557020",
     "21498324",
-    "21516258"
+    "21516258",
+    "37025450"
   ],
-  "booksIDsMap": {},
+  "booksIDsMap": {
+    "01-Areas/Leadership/Maybe It′s Me 8 Signs a Boss Has Leadership Issues by Zain Jaffer Highlights.md": "37370921"
+  },
   "reimportShowConfirmation": true
 }
