@@ -24,11 +24,15 @@ Sourced some possible questions from various head-hunter websites
 	- The Techs will shadow several experienced Techs.
 	- Ensure the Tech is comfortable navigating Carman, the fleet management and repair software.
 - **What defines your management style as leader of service professionals?**
-	- A combination of *Visionary* and *coaching* leadership
+	- A combination of *Visionary*, *Democratic* *coaching* leadership
+		- **Democratic**
+			- As indicated by its name, majority rules in democratic management. Acknowledging that people are key to an organization’s success, these types of managers allow their teams to make decisions. This is popular among employees as it makes them feel that they are a valuable asset to the company and team.
 		- **Visionary**
 			- communicate a purpose and vision to your team that inspires them to execute their goals. You give them autonomy, granting them full control over how they complete their projects, which fosters employee engagement.
 		- **Coaching**
 			- This kind of management uses career opportunities such as promotions and new projects to motivate employees to continually learn and advance. Coaching managers are open to short-term failures, understanding that learning and improving from these mistakes brings long-term benefits.
+	- Example of Leadership
+		- During HV Battery repair campaigns I use a Democratic / Visionary approach to completing the project. I give them team all the tools they need to complete the project and allow them to find the path of least resistance to the finish. So far we've completed five round of battery repairs ranging from 14 - 18 cars a week and have achieved 100% completion rate every-time.
 - **Which key performance indicators do you track most closely when reviewing the quality of service your team provides?**
 	- Mean Repair Time
 	- Current online average
