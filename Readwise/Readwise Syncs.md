@@ -25,10 +25,18 @@
 - [[2024-02-01]]: 1 highlights from [[The Lasting Harm of Leadership Bullshit by Andy Walker Highlights]]
 - [[2024-02-01]]: 1 highlights from [[Maybe It′s Me: 8 Signs a Boss Has Leadership Issues by Zain Jaffer Highlights]]
 
+## 2024-02-25 11:57 AM — Synced 0 highlights from 0 documents.
+
 ## 2024-02-03 2:41 PM — Synced 0 highlights from 0 documents.
 
 ## 2024-02-03 3:22 PM — Synced 4 highlights from 1 document.
 - [[2024-02-03]]: 4 highlights from [[Maybe It′s Me: 8 Signs a Boss Has Leadership Issues by Zain Jaffer Highlights]]
 
 ## 2024-02-04 3:44 PM — Synced 0 highlights from 0 documents.
+
+## 2024-02-06 9:52 PM — Synced 0 highlights from 0 documents.
+
+## 2024-02-13 7:13 PM — Synced 0 highlights from 0 documents.
+
+## 2024-02-23 9:06 PM — Synced 0 highlights from 0 documents.
 
